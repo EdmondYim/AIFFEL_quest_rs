@@ -1,0 +1,25 @@
+높은 명도,faces,landmarks_detected,매우 낮은 명도,faces,landmarks_detected,,매우 높은 명도,faces,landmarks_detected,낮은 명도,faces,landmarks_detected,원본,faces,landmarks_detected
+aug_frame_00000.jpg,1,TRUE,aug_frame_00000.jpg,1,TRUE,,aug_frame_00000.jpg,1,TRUE,aug_frame_00000.jpg,1,TRUE,frame_00000.jpg,1,TRUE
+aug_frame_00001.jpg,1,TRUE,aug_frame_00001.jpg,1,TRUE,,aug_frame_00001.jpg,1,TRUE,aug_frame_00001.jpg,1,TRUE,frame_00001.jpg,1,TRUE
+aug_frame_00002.jpg,1,TRUE,aug_frame_00002.jpg,0,FALSE,,aug_frame_00002.jpg,1,TRUE,aug_frame_00002.jpg,1,TRUE,frame_00002.jpg,1,TRUE
+aug_frame_00003.jpg,1,TRUE,aug_frame_00003.jpg,0,FALSE,,aug_frame_00003.jpg,1,TRUE,aug_frame_00003.jpg,1,TRUE,frame_00003.jpg,1,TRUE
+aug_frame_00004.jpg,1,TRUE,aug_frame_00004.jpg,1,TRUE,,aug_frame_00004.jpg,1,TRUE,aug_frame_00004.jpg,1,TRUE,frame_00004.jpg,1,TRUE
+aug_frame_00005.jpg,1,TRUE,aug_frame_00005.jpg,1,TRUE,,aug_frame_00005.jpg,1,TRUE,aug_frame_00005.jpg,1,TRUE,frame_00005.jpg,1,TRUE
+aug_frame_00006.jpg,1,TRUE,aug_frame_00006.jpg,1,TRUE,,aug_frame_00006.jpg,1,TRUE,aug_frame_00006.jpg,1,TRUE,frame_00006.jpg,1,TRUE
+aug_frame_00007.jpg,0,FALSE,aug_frame_00007.jpg,0,FALSE,,aug_frame_00007.jpg,0,FALSE,aug_frame_00007.jpg,0,FALSE,frame_00007.jpg,1,TRUE
+aug_frame_00008.jpg,1,TRUE,aug_frame_00008.jpg,1,TRUE,,aug_frame_00008.jpg,1,TRUE,aug_frame_00008.jpg,1,TRUE,frame_00008.jpg,1,TRUE
+aug_frame_00009.jpg,1,TRUE,aug_frame_00009.jpg,0,FALSE,,aug_frame_00009.jpg,1,TRUE,aug_frame_00009.jpg,1,TRUE,frame_00009.jpg,1,TRUE
+aug_frame_00010.jpg,0,FALSE,aug_frame_00010.jpg,0,FALSE,,aug_frame_00010.jpg,0,FALSE,aug_frame_00010.jpg,0,FALSE,frame_00010.jpg,0,FALSE
+aug_frame_00011.jpg,1,TRUE,aug_frame_00011.jpg,0,FALSE,,aug_frame_00011.jpg,1,TRUE,aug_frame_00011.jpg,1,TRUE,frame_00011.jpg,1,TRUE
+aug_frame_00012.jpg,0,FALSE,aug_frame_00012.jpg,0,FALSE,,aug_frame_00012.jpg,0,FALSE,aug_frame_00012.jpg,0,FALSE,frame_00012.jpg,0,FALSE
+aug_frame_00013.jpg,0,FALSE,aug_frame_00013.jpg,0,FALSE,,aug_frame_00013.jpg,0,FALSE,aug_frame_00013.jpg,0,FALSE,frame_00013.jpg,0,FALSE
+aug_frame_00014.jpg,1,TRUE,aug_frame_00014.jpg,1,TRUE,,aug_frame_00014.jpg,1,TRUE,aug_frame_00014.jpg,1,TRUE,frame_00014.jpg,1,TRUE
+aug_frame_00015.jpg,1,TRUE,aug_frame_00015.jpg,1,TRUE,,aug_frame_00015.jpg,1,TRUE,aug_frame_00015.jpg,1,TRUE,frame_00015.jpg,1,TRUE
+aug_frame_00016.jpg,0,FALSE,aug_frame_00016.jpg,0,FALSE,,aug_frame_00016.jpg,1,TRUE,aug_frame_00016.jpg,0,FALSE,frame_00016.jpg,0,FALSE
+aug_frame_00017.jpg,0,FALSE,aug_frame_00017.jpg,0,FALSE,,aug_frame_00017.jpg,0,FALSE,aug_frame_00017.jpg,0,FALSE,frame_00017.jpg,0,FALSE
+aug_frame_00018.jpg,1,TRUE,aug_frame_00018.jpg,0,FALSE,,aug_frame_00018.jpg,1,TRUE,aug_frame_00018.jpg,1,TRUE,frame_00018.jpg,1,TRUE
+aug_frame_00019.jpg,1,TRUE,aug_frame_00019.jpg,1,TRUE,,aug_frame_00019.jpg,1,TRUE,aug_frame_00019.jpg,1,TRUE,frame_00019.jpg,1,TRUE
+aug_frame_00020.jpg,1,TRUE,aug_frame_00020.jpg,1,TRUE,,aug_frame_00020.jpg,1,TRUE,aug_frame_00020.jpg,1,TRUE,frame_00020.jpg,1,TRUE
+aug_frame_00021.jpg,1,TRUE,aug_frame_00021.jpg,1,TRUE,,aug_frame_00021.jpg,1,TRUE,aug_frame_00021.jpg,1,TRUE,frame_00021.jpg,1,TRUE
+,,,,,,,,,,,7 10 12 13 16 17,,,10 12 13 16 17,
+,7 10 12 13 16 17,,,2 3 7 9 10 11 12 13 14  16 17,,,,7 10 12 13 17,,,,,,,
